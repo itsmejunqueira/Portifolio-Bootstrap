@@ -1,1 +1,1 @@
-Portifolio estilo Linkedin criando com base no bootstrap. 
+Portifolio estilo Linkedin feito com intenção de aprender e praticar novamente o bootstrap. 
